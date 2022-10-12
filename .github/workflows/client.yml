@@ -33,4 +33,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-17-uxolrv \
             --delete
-        working-directory: <?>
+        working-directory: ./my-agora-states-client
